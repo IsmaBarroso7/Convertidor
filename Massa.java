@@ -1,3 +1,9 @@
+/**
+* Ciken transformar masses a kg mg grams tonelades...
+* d'aquesta manera creem la variable massa i cada variable de cada quantitat
+* que volem rebre el valor com tones...
+* fem les multiplicacions i divisions necessaries per rebre els resultats esperats
+ */
 public class Massa {
     private double kg;
 
