@@ -1,3 +1,9 @@
+/**
+* Creem la variable de segons per tenir el nostre temps i fem els calculs per rebre els minuts hores...
+* fem returns dels resultats calculats per tal que l'usuari tingui els valors desitjats
+* necessari fer caculs dels valor per tal de fer conversions d'un temps a un altre com d'hores a minuts...
+ */
+
 public class Temps {
     private double segons;
 
