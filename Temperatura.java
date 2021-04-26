@@ -1,4 +1,9 @@
-
+/**
+* Creem la variable temperatura amb kelvins
+* Farem que cada kelvin es transformi per rebre els seus fahrenheit.
+* fem els calculs necesaris per rebre els valors desitjats
+* 
+ */
 
 public class Temperatura {
     private double kelvin;
