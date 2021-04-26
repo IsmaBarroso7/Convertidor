@@ -1,3 +1,9 @@
+/**Creem kilometres i fem calculs per tal de retornar els metres... i així
+   * Amb pulzades, peus,llardes, milles i llegues
+   *  Fem returns per rebre els valors que calculem i que necessitem després de fer els calculs necessaris
+   * per passar de metres a km i així amb totes les dades necessaries
+   * fem return de totes les variables per tal de rebre el valor que necessita l'usuari
+     */
 public class Longitud {
     private double metre;
 
